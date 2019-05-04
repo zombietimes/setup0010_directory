@@ -15,13 +15,13 @@ I focus on Ethereum and Loom Network as the DApps.
 [setup0000_all](https://github.com/zombietimes/setup0000_all) is the instruction script file to run the other script files.  
 [setup0000_all](https://github.com/zombietimes/setup0000_all) consists of the external script files below.  
 - [setup0010_directory](https://github.com/zombietimes/setup0010_directory) : Here!
-- [setup0020_ubuntu]()
-- [setup0030_loomNetwork]()
-- [setup0040_nodeJs]()
-- [setup0050_truffle]()
-- [setup0060_openZeppelin]()
-- [setup0070_ganache]()
-- [setup0080_express]()
+- [setup0020_ubuntu](https://github.com/zombietimes/setup0020_ubuntu)
+- [setup0030_loomNetwork](https://github.com/zombietimes/setup0030_loomNetwork)
+- [setup0040_nodeJs](https://github.com/zombietimes/setup0040_nodeJs)
+- [setup0050_truffle](https://github.com/zombietimes/setup0050_truffle)
+- [setup0060_openZeppelin](https://github.com/zombietimes/setup0060_openZeppelin)
+- [setup0070_ganache](https://github.com/zombietimes/setup0070_ganache)
+- [setup0080_express](https://github.com/zombietimes/setup0080_express)
 
 ### Environment
 This script file is for Ubuntu(Linux).  
@@ -30,11 +30,11 @@ I recommend that you use VirtualBox + Ubuntu.
 ### Sample DApps
 I created some sample smart contracts below.  
 I hope to be useful to you when you develop DApps.  
-- [Hello world : HelloZombies.sol]()
-- [ERC20 : Coin20.sol]()
-- [ERC721 : Asset721.sol]()
-- [Multi contract : ImportZombies.sol]()
-- [Sending Ether]()
+- [Hello world : HelloZombies.sol](https://github.com/zombietimes/dapp_helloWorld)
+- [ERC20 : Coin20.sol](https://github.com/zombietimes/dapp_erc20)
+- [ERC721 : Asset721.sol](https://github.com/zombietimes/dapp_erc721)
+- [Multi contract : ImportZombies.sol](https://github.com/zombietimes/dapp_multiContract)
+- [Sending Ether](https://github.com/zombietimes/dapp_sendEther)
 
 ## Usage
 Run the command on Ubuntu console window.  
