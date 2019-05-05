@@ -44,7 +44,7 @@ git clone https://github.com/zombietimes/setup0010_directory.git
 cd setup0010_directory
 sh ./ubuntuCmd_setupDirectory.sh
 ```
-![setup0010_directory_0000.png]()  
+![setup0010_directory_0000](https://user-images.githubusercontent.com/50263232/57186097-463de000-6f14-11e9-94ea-1c67f51cdc4b.png)  
 
 ## Requirement
 I confirmed that it works on Ubuntu Desktop 18.04 in VirtualBox.  
@@ -79,7 +79,4 @@ Why?
 
 ## License
 BSD 3-Clause, see `LICENSE` file for details.  
-
----
-Produced by Zombie Times  
 
